@@ -1,0 +1,188 @@
+{
+  "common": {
+    "companyName": "CRISTOBAL Ltd",
+    "companyNameFull": "CRISTOBAL Ltd",
+    "menu": {
+      "home": "Home",
+      "about": "About",
+      "services": "Services",
+      "partners": "Partners",
+      "contacts": "Contacts",
+      "title": "Menu"
+    },
+    "cta": {
+      "sendInquiry": "Send Inquiry",
+      "contactUs": "Contact Us",
+      "subtitle": "Contact us for inquiry or offer"
+    },
+    "footer": {
+      "navigation": "Navigation",
+      "legal": "Legal Information",
+      "privacy": "Privacy Policy",
+      "rights": "All rights reserved",
+      "description": "Trade, logistics and international road transport"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "CRISTOBAL Ltd",
+      "subtitle": "Trade, logistics and international road transport"
+    },
+    "services": {
+      "title": "Key Directions",
+      "trade": {
+        "title": "Trade",
+        "description": "Purchase and sale of goods, B2B work, individual contracts"
+      },
+      "transport": {
+        "title": "International Transport",
+        "description": "Road transport of goods and passengers in Europe and the Balkans"
+      },
+      "logistics": {
+        "title": "Expedition and Logistics",
+        "description": "Transport organization, documentation, coordination with partners"
+      }
+    },
+    "about": {
+      "title": "About the Company",
+      "description": "CRISTOBAL Ltd is a Bulgarian company specializing in trade, logistics and international road transport. We work with transparency, meet deadlines and are contractually responsible."
+    },
+    "geography": {
+      "title": "Geography of Work",
+      "description": "We serve clients in Europe and the Balkans, with the possibility of expanding the geography."
+    },
+    "advantages": {
+      "title": "Advantages",
+      "transparency": "Transparency",
+      "deadlines": "Meeting deadlines",
+      "responsibility": "Contractual responsibility"
+    }
+  },
+  "about": {
+    "title": "About the Company",
+    "legal": {
+      "title": "Legal Information",
+      "name": "Name",
+      "nameValue": "CRISTOBAL Ltd",
+      "eik": "EIK",
+      "eikValue": "208546896",
+      "year": "Year of Registration",
+      "yearValue": "2025",
+      "address": "Address",
+      "addressValue": "11 Kara Nikola Angelov Street, Pazardzhik, 4400, Bulgaria",
+      "legalForm": "Legal Form",
+      "legalFormValue": "Single-member Limited Liability Company (LLC)"
+    },
+    "management": {
+      "title": "Management",
+      "manager": "Managing Director",
+      "managerName": "Petar Krasenov Mitev"
+    },
+    "bank": {
+      "title": "Bank Account Details",
+      "bankName": "Bank",
+      "bankNameValue": "Postbank (Eurobank Bulgaria AD)",
+      "accountHolder": "Account Holder",
+      "accountHolderValue": "CRISTOBAL LTD",
+      "iban": "IBAN",
+      "ibanValue": "BG36 BPBI 7930 1436 8101 01",
+      "currency": "Currency",
+      "currencyValue": "EUR",
+      "swift": "SWIFT/BIC",
+      "swiftValue": "BPBIBGSF",
+      "bankAddress": "Bank Address",
+      "bankAddressValue": "Okolovrasten pat 260, 1766 Sofia, Bulgaria",
+      "accountType": "Account Type",
+      "accountTypeValue": "Business Current Account"
+    },
+    "principles": {
+      "title": "Working Principles",
+      "transparency": "Transparency",
+      "transparencyDesc": "We work with full transparency in all aspects of the business.",
+      "deadlines": "Meeting deadlines",
+      "deadlinesDesc": "We guarantee compliance with agreed delivery deadlines.",
+      "responsibility": "Contractual responsibility",
+      "responsibilityDesc": "We are contractually responsible and guarantee the quality of services."
+    }
+  },
+  "services": {
+    "title": "Services",
+    "trade": {
+      "title": "Trade",
+      "description": "Purchase and sale of goods, B2B work, individual contracts"
+    },
+    "transport": {
+      "title": "International Road Transport",
+      "description": "Road transport of goods and passengers in Europe and the Balkans"
+    },
+    "logistics": {
+      "title": "Expedition and Logistics",
+      "description": "Transport organization, documentation, coordination with partners"
+    }
+  },
+  "partners": {
+    "title": "Partners",
+    "description": "We are looking for partners for joint work in the field of logistics and international transport.",
+    "cooperation": {
+      "title": "Cooperation Formats",
+      "description": "We are ready for various partnership formats depending on your needs.",
+      "items": {
+        "logistics": "Logistics partnerships",
+        "transport": "Joint transport projects",
+        "trade": "Trade partnerships",
+        "expedition": "Expedition services"
+      }
+    },
+    "geography": {
+      "title": "Geography",
+      "description": "We work in Europe and the Balkans, with the possibility of expanding the geography according to the needs of the partnership."
+    },
+    "cta": {
+      "title": "Interested in partnership?",
+      "description": "Contact us to discuss cooperation opportunities.",
+      "button": "Contact Us"
+    }
+  },
+  "contacts": {
+    "title": "Contacts",
+    "address": "Address",
+    "addressValue": "Pazardzhik, 11 \"Kara Nikola Angelov\" St.",
+    "phone": "Phone",
+    "email": "Email",
+    "emailValue": "cristobal.eood@gmail.com",
+    "form": {
+      "title": "Send Inquiry",
+      "name": "Name",
+      "company": "Company",
+      "email": "Email",
+      "message": "Message",
+      "send": "Send",
+      "sending": "Sending...",
+      "success": "Message sent successfully!",
+      "error": "An error occurred. Please try again."
+    }
+  },
+  "legal": {
+    "title": "Legal Information",
+    "privacy": {
+      "title": "Privacy Policy",
+      "content": "CRISTOBAL Ltd complies with GDPR and protects the personal data of its clients."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "content": "The website uses cookies to improve user experience and analyze traffic. You can control and manage cookies through your browser settings.",
+      "banner": {
+        "title": "We use cookies",
+        "description": "This website uses cookies to improve user experience and analyze traffic. By continuing to use the site, you agree to the use of cookies.",
+        "accept": "Accept",
+        "decline": "Decline",
+        "learnMore": "Learn more"
+      }
+    },
+    "terms": {
+      "title": "Terms and Conditions",
+      "content": "General terms and conditions for using CRISTOBAL Ltd services."
+    }
+  }
+}
+
