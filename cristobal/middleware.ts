@@ -1,10 +1,11 @@
 import createMiddleware from 'next-intl/middleware';
-import { locales } from './i18n';
+import { locales, defaultLocale } from './i18n';
 
 export default createMiddleware({
   locales,
-  defaultLocale: 'bg',
-  localePrefix: 'always'
+  defaultLocale,
+  localePrefix: 'always',
+  localeDetection: true
 });
 
 export const config = {
@@ -13,7 +14,6 @@ export const config = {
     // - … if they start with `/api`, `/_next` or `/_vercel`
     // - … the ones containing a dot (e.g. `favicon.ico`)
     '/((?!api|_next|_vercel|.*\\..*).*)',
-    // Optional: only run on root (/) URL
     '/'
   ]
 };
