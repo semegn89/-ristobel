@@ -1,4 +1,10 @@
 {
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/bg"
+    }
+  ],
   "headers": [
     {
       "source": "/(.*)",
